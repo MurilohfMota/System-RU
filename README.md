@@ -1,6 +1,8 @@
-## Getting Started
+## System RU
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Markdown
+[](https://i.pinimg.com/564x/a2/ae/93/a2ae933d33bd335edad2117ff5003eb0.jpg)
+
 
 ## Folder Structure
 
