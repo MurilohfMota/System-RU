@@ -1,7 +1,7 @@
 ## System RU
 
 # Markdown
-[](https://i.pinimg.com/564x/a2/ae/93/a2ae933d33bd335edad2117ff5003eb0.jpg)
+![systemRU](https://user-images.githubusercontent.com/52515361/101966372-45902400-3bf6-11eb-877d-daba2098e480.png)
 
 
 ## Folder Structure
